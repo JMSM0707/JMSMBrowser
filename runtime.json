@@ -1,1 +1,24 @@
-1
+{
+  "archives": {
+    "ShardX-Fingerprints.zip": "68b048725229994f0a96a6131391b7e7",
+    "ShardX-Linux.zip": "d085876b60cd8946f0762d3b1a29ff5f-4",
+    "ShardX-Mac-arm64.zip": "10315725e5992e3b775f4f37795ec129-3",
+    "ShardX-Widevine-Linux.zip": "9b7d2697bc8ede2bd9fe72ccaaa2f15f-3",
+    "ShardX-Widevine-Mac-arm64.zip": "c54f3fb0b47c47d8f4663ddd3b1f2cf4",
+    "ShardX-Widevine-Win.zip": "8852779330edb7ac2096e0d21dc3afb5",
+    "ShardX-Windows.zip": "ec9b9550570b75914a49caeacfc63a45-4"
+  },
+  "sha256": {
+    "ShardX-Fingerprints.zip": "6489cb444057b0d83492099037f3ac611b99a05db8b95378d09129ee9e4a60e1",
+    "ShardX-Linux.zip": "8596686d485782ba122507b64e28227a12558d6e43450e3e71c7c8307bbf4856",
+    "ShardX-Mac-arm64.zip": "8940df92cca51025c9d7f68c2d9f24cf667dd46531bcdde1466417af8a065a3b",
+    "ShardX-Widevine-Linux.zip": "44fb1a3afd884d650904b88637eef8cede162ea5d302292a7b8813deafb751dc",
+    "ShardX-Widevine-Mac-arm64.zip": "5c2f78dd705e8f842455136eeeb358805cc721288cd268e079676a557eeabf92",
+    "ShardX-Widevine-Win.zip": "8b32e3627b998964aa53670f85756c7bc2127780c2aa5cc06fbf4fd0bcb07862",
+    "ShardX-Windows.zip": "5eb0b5f954b71a652868e50954356034828dc9832c3ef6f6494d48b74111393c"
+  },
+  "chromium_version": "149.0.7827.103",
+  "grease_brand": "Not)A;Brand",
+  "grease_version": "24",
+  "notes": "Joriy barqaror versiya."
+}
